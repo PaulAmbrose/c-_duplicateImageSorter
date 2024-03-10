@@ -1,0 +1,7 @@
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\bin\Debug\photoDuplicateSorter.exe.config
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\bin\Debug\photoDuplicateSorter.exe
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\bin\Debug\photoDuplicateSorter.pdb
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\obj\Debug\photoDuplicateSorter.csproj.AssemblyReference.cache
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\obj\Debug\photoDuplicateSorter.csproj.CoreCompileInputs.cache
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\obj\Debug\photoDuplicateSorter.exe
+C:\Users\PAmbrose\source\repos\photoDuplicateSorter\obj\Debug\photoDuplicateSorter.pdb
